@@ -1,0 +1,5 @@
+train: D:/Projects/Confirmed Projects Work/Rip Currents_Object_Detection/Client Dataset/Training/datasets/train/images
+val: D:/Projects/Confirmed Projects Work/Rip Currents_Object_Detection/Client Dataset/Training/datasets/valid/images
+
+nc: 1
+names: ["rip"]
