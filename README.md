@@ -1,2 +1,2 @@
-![Watch the demo](Detected RIP Output.mp4)
+![Watch the demo](sample-rip-output.mp4)
 
